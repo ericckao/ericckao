@@ -8,6 +8,6 @@
 <br>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=ericckao&count_private=true&theme=chartreuse-dark&show_icons=true" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericckao" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericckao&theme=midnight-purple" height="180em"/>
 </div>
 
