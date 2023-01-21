@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/88864793/213793601-96091504-63db-4e52-bf69-1f283bb75ae6.png" alt="" width="100%" height="450"/>
+<img src="https://user-images.githubusercontent.com/88864793/213793601-96091504-63db-4e52-bf69-1f283bb75ae6.png" alt="" width="100%" height="350"/>
 
  ### Erick Fernandes está digitando...
 
