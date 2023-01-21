@@ -6,6 +6,8 @@
 - 🖥️ Cursando Analise e Desenvolvimento de Sistemas 2/5.
 - 📚 Estudando e aperfeiçoando minhas habilidades em C#/ .NET através do Bootcamp "Formação .NET Developer" ministrado pela DIO.
 <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericckao&count_private=true&theme=chartreuse-dark&show_icons=true)
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=ericckao&count_private=true&theme=chartreuse-dark&show_icons=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericckao&theme=chartreuse-dark" height="180em"/>
+</div>
 
