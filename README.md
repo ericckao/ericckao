@@ -2,9 +2,10 @@
 
  ### Erick Fernandes está digitando...
 
-- 🕵️ Atualmente, procurando uma oportunidade de estágio.
+- 🕵️ Atualmente, procurando minha primeira oportunidade na área de tecnologia após fazer a transição de carreira.
 - 🖥️ Cursando Analise e Desenvolvimento de Sistemas 2/5.
-- 📚 Estudando e aperfeiçoando minhas habilidades em C#/ .NET através do Bootcamp "Formação .NET Developer" ministrado pela DIO.
+- 🎓 Formado no Bootcamp "Formação .NET Developer"  pela DIO.
+- 📚 Aprofundando meus conhecimentos em EF Core, MVC e Javascript
 <br>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=ericckao&count_private=true&theme=chartreuse-dark&show_icons=true" height="180em"/>
