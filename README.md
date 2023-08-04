@@ -3,7 +3,7 @@
  ### Erick Fernandes está digitando...
 
 - 🕵️ Atualmente, procurando minha primeira oportunidade na área de tecnologia após fazer a transição de carreira.
-- 🖥️ Cursando Analise e Desenvolvimento de Sistemas 2/5.
+- 🖥️ Cursando Analise e Desenvolvimento de Sistemas 3/5.
 - 🎓 Formado no Bootcamp "Formação .NET Developer"  pela DIO.
 - 📚 Aprofundando meus conhecimentos em EF Core, MVC e Javascript
 <br>
